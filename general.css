@@ -1,0 +1,89 @@
+body {
+  background-color: #b7b78a;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+.resim1 {
+  width: 1500px;
+  height: 750px;
+  margin: 0;
+  padding: 0;
+}
+
+.resim2 {
+  width: 100%;
+}
+.resim3 {
+  width: 100%;
+}
+.links {
+  font-weight: bolder;
+  font-style: italic;
+  text-transform: uppercase;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #b7b78a;
+}
+.google {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: saddlebrown;
+}
+
+strong {
+  background-color: saddlebrown;
+}
+table {
+  border: 10px solid #7f430f;
+  width: 400px;
+  height: 150px;
+  margin-left: 400px;
+  margin-top: 200px;
+}
+td,
+th {
+  border: 2px solid #7f430f;
+}
+
+.başlık {
+  letter-spacing: 10px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.contact {
+  border: 2px solid #7f430f;
+  width: 320px;
+  margin-left: 600px;
+  margin-top: 150px;
+  background-color: #6b3e12;
+}
+
+.logo {
+  color: black;
+  text-transform: uppercase;
+}
+.ornek {
+  margin: 0;
+  text-transform: capitalize;
+  border: 5px solid saddlebrown;
+  padding: 10px;
+  width: 300px;
+}
+.sola-kaydır {
+  padding: 10px 0;
+  width: 50%;
+}
+.saga-kaydır {
+  padding: 10px 0;
+  width: 50%;
+}
+.ornek1 {
+  margin: 0;
+  text-transform: capitalize;
+  border: 5px solid saddlebrown;
+  padding: 10px;
+  width: 300px;
+}
